@@ -1,0 +1,17 @@
+"parameter","value"
+"initial_capital_raw",0.879492279772812
+"initial_capital_ppp",1.6683585736775
+"initial_savings",0.196064724153229
+"optimal_long_run_savings",0.258278145695364
+"labour_share",0.7
+"capital_share",0.3
+"depreciation_rate",0.1
+"elasticity_marginal_utility",1.45
+"pure_rate_time_preference",0.015
+"timestep",5
+"alpha_temp",23.6926844271779
+"beta_temp",0.992746952951532
+"base_temp",24.341608488003
+"r2_temp",0.833961732715051
+"ppp2mer",0.527160224216176
+"mer2ppp",1.89695647369238
